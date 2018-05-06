@@ -1,0 +1,8 @@
+prefix=/home/manadoona/prj/SerialROS/devel
+
+Name: serial_ros_pi
+Description: Description of serial_ros_pi
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/manadoona/prj/SerialROS/devel/lib 
+Requires: 

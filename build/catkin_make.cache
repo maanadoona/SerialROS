@@ -1,0 +1,2 @@
+serial_ros_pi
+-DCATKIN_DEVEL_PREFIX=/home/manadoona/prj/SerialROS/devel -DCMAKE_INSTALL_PREFIX=/home/manadoona/prj/SerialROS/install -G Unix Makefiles

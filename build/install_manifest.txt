@@ -1,0 +1,10 @@
+/home/manadoona/prj/SerialROS/install/_setup_util.py
+/home/manadoona/prj/SerialROS/install/env.sh
+/home/manadoona/prj/SerialROS/install/setup.bash
+/home/manadoona/prj/SerialROS/install/setup.sh
+/home/manadoona/prj/SerialROS/install/setup.zsh
+/home/manadoona/prj/SerialROS/install/.rosinstall
+/home/manadoona/prj/SerialROS/install/lib/pkgconfig/serial_ros_pi.pc
+/home/manadoona/prj/SerialROS/install/share/serial_ros_pi/cmake/serial_ros_piConfig.cmake
+/home/manadoona/prj/SerialROS/install/share/serial_ros_pi/cmake/serial_ros_piConfig-version.cmake
+/home/manadoona/prj/SerialROS/install/share/serial_ros_pi/package.xml
